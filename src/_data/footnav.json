@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/alanhylands",
+      "external": true
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://linkedin.com/in/alanhylands",
+      "external": true
+    },
+    {
+      "text": "Github",
+      "url": "https://github.com/santino79",
+      "external": true
+    }
+  ]
+}

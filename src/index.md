@@ -1,12 +1,19 @@
 ---
 layout: home
-title: A simple starter kit for Eleventy
-postsHeading: Latest posts
-archiveButtonText: See all posts
-metaDesc: 'Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.'
+title: Data Analyst & Writer
+postsHeading: Latest articles
+archiveButtonText: See all articles
+metaDesc: 'Alan Hylands is a data analyst and writer from Northern Ireland.'
 socialImage: ''
 ---
 
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend yourself. It’s by [Andy Bell](https://twitter.com/hankchizljaw) and [friends](https://github.com/aarongustafson/hylia/graphs/contributors).
+## Currently, I&rsquo;m a senior decision scientist at  [Zapier](https://zapier.com).
 
-Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/hankchizljaw/hylia&stack=cms)
+I also interview data analysts at [Analysts Assemble](https://analystsassemble.com).
+
+And I help them get started learning SQL with my online [SQL Crash Course](https://sqlcrashcourse.com). 
+
+### Want to know more?
+
+- See my <a href="/about/">About</a> page for some back story.
+- Check out my <a href="/projects/">Projects</a> page for more info on my current and past projects.

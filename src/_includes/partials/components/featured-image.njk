@@ -1,0 +1,16 @@
+{# featured post image #}
+{% if featured_image %}
+
+    <figure >
+
+        <img src="{{ featured_image }}" alt="{{ image_caption }}">
+
+        {% if image_caption %}
+
+            <figcaption class="text-center text-sm italic text-gray-600 mt-4">{{ image_caption }}</figcaption>
+
+        {% endif %}
+
+    </figure>
+
+{% endif %}

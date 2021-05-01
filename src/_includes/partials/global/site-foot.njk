@@ -4,14 +4,13 @@
       {% if site.shortDesc %}
         <div>
           <article class="[ site-foot__details ] [ sf-flow measure-compact ]">
-            <h2 class="font-base text-600">{{ site.name }}</h2>
-            {{ site.shortDesc | markdownFilter | safe }}
+            © 2021 Alan Hylands
           </article>
         </div>
       {% endif %}
       <div>
         {% set ariaLabel = 'footer navigation' %}
-        {% include "partials/components/nav.njk" %}
+        {% include "partials/components/foot-nav.njk" %}
         <theme-toggle></theme-toggle>
       </div>
     </div>

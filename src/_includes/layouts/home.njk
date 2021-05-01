@@ -13,13 +13,16 @@
 {# Archive link #}
 {% if postListItems.length < collections.posts.length %} 
   {% set paginationNextText = archiveButtonText %}
-  {% set paginationNextUrl = '/archive' %}
+  {% set paginationNextUrl = '/articles/' %}
 {% endif %}
 
 {% block content %}
   <main id="main-content" tabindex="-1">
     {% include "partials/components/intro.njk" %}
-    {% include "partials/components/post-list.njk" %}
-    {% include "partials/components/pagination.njk" %}
+
+    {% if site.showHomeLatestArticles %}
+      {% include "partials/components/post-list.njk" %}
+      {% include "partials/components/pagination.njk" %}
+    {% endif %}
   </main>
 {% endblock %}
