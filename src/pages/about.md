@@ -48,4 +48,8 @@ You can contact by email: alan AT alanhylands DOT com
 
 _or_
 
-Follow me on [Twitter](https://twitter.com/AlanHylands).     
+On this [contact form](/contact/)
+
+_or_
+
+Follow me on [Twitter](https://twitter.com/AlanHylands) for occasional data hot takes and regular moaning about Tottenham Hotspur.    

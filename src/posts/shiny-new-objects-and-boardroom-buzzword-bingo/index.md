@@ -1,7 +1,7 @@
 ---
 title: Shiny New Objects and Boardroom Buzzword Bingo
 date: 2018-05-16
-featured_image: /images/content/shiny-ball.jp
+featured_image: /images/content/shiny-ball.jpg
 image_caption: 
 excerpt: 
 tags: 

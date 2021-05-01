@@ -1,7 +1,7 @@
 ---
 title: Sharing A Jupyter Notebook On Github
 date: 2018-11-01
-featured_image: /images/content/share-jupyter-github-e1547042907112.pn
+featured_image: /images/content/share-jupyter-github-e1547042907112.png
 image_caption: 
 excerpt: 
 tags: 
