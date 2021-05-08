@@ -2,6 +2,7 @@
 
 {# Intro content #}
 {% set introHeading = title %}
+{% set introSummary = excerpt %}
 
 {% block content %}
   <main id="main-content" tabindex="-1">
@@ -17,15 +18,15 @@
             
             {% if 'spotify' in song.link %}
               <p>
-              <a href="{{ song.link }}>Spotify</a>
+              <a href="{{ song.link }}">Spotify</a>
               </p>
             {% elif 'youtube' in song.link %}
               <p>
-              <a href="{{ song.link }}>Youtube</a>
+              <a href="{{ song.link }}">Youtube</a>
               </p>
             {% else %}
               <p>
-              <a href="{{ song.link }}>Link</a>
+              <a href="{{ song.link }}">Link</a>
               </p>
             {% endif %}
 
