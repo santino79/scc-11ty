@@ -1,0 +1,38 @@
+{% extends 'layouts/base.njk' %}
+
+{# Intro content #}
+{% set introHeading = title %}
+
+{% block content %}
+  <main id="main-content" tabindex="-1">
+    <article class="[ post ] [ h-entry ]">
+      {% include "partials/components/intro.njk" %}
+      <div class="[ post__body ] [ inner-wrapper ] [ leading-loose pad-top-900 pad-bottom-900 text-500 ] [ sf-flow ] [ e-content ]">
+            {% for song in songs -%}
+            <h2>{{ song.title }}</h2>
+            <h3>{{ song.date }}</h3>
+            <p>
+            {{ song.description }}
+            </p> 
+            
+            {% if 'spotify' in song.link %}
+              <p>
+              <a href="{{ song.link }}>Spotify</a>
+              </p>
+            {% elif 'youtube' in song.link %}
+              <p>
+              <a href="{{ song.link }}>Youtube</a>
+              </p>
+            {% else %}
+              <p>
+              <a href="{{ song.link }}>Link</a>
+              </p>
+            {% endif %}
+
+            {% endfor -%}
+      </div>
+    </article>
+  </main>
+{% endblock %}
+
+{{ content | safe }}
