@@ -7,7 +7,7 @@ metaDesc: 'Alan Hylands is a data analyst and writer from Northern Ireland.'
 socialImage: ''
 ---
 
-## Currently, I&rsquo;m a senior decision scientist at  [Zapier](https://zapier.com).
+## Currently, I&rsquo;m a senior data scientist at  [Zapier](https://zapier.com).
 
 I also interview data analysts at [Analysts Assemble](https://analystsassemble.com).
 
