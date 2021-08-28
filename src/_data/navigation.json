@@ -6,13 +6,8 @@
       "external": false
     },
     {
-      "text": "Projects",
-      "url": "/projects/",
-      "external": false
-    },
-    {
-      "text": "Articles",
-      "url": "/articles/",
+      "text": "Lessons",
+      "url": "/lessons/",
       "external": false
     }
   ]

@@ -20,25 +20,9 @@ I've worked in tech, data and analytics for the past 20 years - building, report
 - And much, much more (that I'm not allowed to tell about. Good old corporate NDAs.)
 
 
-## A little more background.
-
-I studied Accounting at university and planned for a future in finance.
-
-Then I found the internet, programming and databases.
-
-I started my first e-commerce development agency in 2003. Since then I have worked on a number of small business start-ups in e-commerce, analytics, marketing, online research and content marketing.
-   
-I started a successful football website which gave me the opportunity to write professionally for the New York Times Company.
-
-Quite unexpectedly, I was seduced into the corporate world of banking and financial services in the boom-time mid-noughties.
-
-I spent over twelve years running Data and Analytics projects for a large UK and Ireland banking group. I worked my way up through the ranks from senior data analyst to senior analytics manager to Head of Retail Commercial Excellence.
-
 ## What I'm doing now.
 
-In early 2020, I joined [Zapier](https://zapier.com) as a Senior Data Scientist.
-
-I am also Technical Director at [Cura Fitness](https://curafitness.com), our family boutique fitness studio based in County Down, Northern Ireland.
+I currently work for tech company [Zapier](https://zapier.com) as a Senior Data Scientist.
 
 ## Where you can find me.
 
@@ -50,4 +34,4 @@ On this [contact form](/contact/)
 
 _or_
 
-Follow me on [Twitter](https://twitter.com/AlanHylands) for occasional data hot takes and regular moaning about Tottenham Hotspur.    
+Follow me on [Twitter](https://twitter.com/AlanHylands) for occasional data hot takes and regular moaning about football.    
