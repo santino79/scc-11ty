@@ -140,10 +140,13 @@ window.submitSql = function() {
             show_is_correct(false, '<h4>Something doesn\'t look right there.</h4>  Try that one again.');
           }
         }
+
       } catch (err) {
         show_is_correct(false, '<h4>It\'s good but it\'s not right.</h4>  Have another go.');
       }
+
       return false;
+
 
 };
 
@@ -160,15 +163,18 @@ function grade_results (res, corr) {
     JSON.stringify(res[0].values) === JSON.stringify(corr[0].values);
 };
 
-window.showAnswer = function showAnswer() {
+window.showAnswer = function() {
   //var {next_link} = this.state;
 
   document.getElementById("quiz-form").style.display="none";
+
   document.getElementById("correct-display").style.display="block";
 
   document.getElementById("quiz-output").innerHTML = correct_output;
 
   document.getElementById("answer-link").style.display="none";
+
+  //return false;
   
   //if (current_lesson < num_lessons) {
   //  next_link = '<a href="/' + lessons[current_lesson+1]['short_name'] + '" tabindex="3" class="link-button">Try the next Lesson</a>';

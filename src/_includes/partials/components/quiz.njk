@@ -22,12 +22,12 @@
                 <p>
                 <textarea id="sql-input" rows="8" cols="30"></textarea>
                 <br />
-                <a href="#" id="sql-link" onclick="submitSql();">Run SQL</button>
+                <a id="sql-link" onclick="submitSql();return false">Run SQL</a>
                 </p>
                 </div>
                 
                 <br />
-                <a href="#" id="answer-link" onclick="showAnswer()">Show Answer</button>
+                <a id="answer-link" onclick="showAnswer();">Show Answer</a>
 
 
                 <div id="correct-display">
@@ -37,7 +37,7 @@
                     <pre class="language-sql">
                     <code class="language-sql">{{ lesson.answer }}</code>
                     </pre>
-                <input type="hidden" id="quiz-answer" value="{{ lesson.answer }}" />
+                        <input type="hidden" id="quiz-answer" value="{{ lesson.answer }}" />
 
                     <h4>Correct Output:</h4>
                     <p id="quiz-output"></p>
