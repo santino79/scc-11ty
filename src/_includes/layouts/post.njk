@@ -23,7 +23,16 @@ permalink: "{{ page.fileSlug }}/"
       {% include "partials/components/featured-image.njk" %}
 
         {{ content | safe }}
+
+      {% include "partials/components/quiz.njk" %}
+
+      {% set previousPost = collections.lessons | getPreviousCollectionItem(page) %}
+      {% set nextPost = collections.lessons | getNextCollectionItem(page) %}
+
+      {% if nextPost %}<a href="{{ nextPost.url }}">Try the next lesson</a>{% endif %}
+
       </div>
+
       {% if site.enableThirdPartyComments %}
         <hr />
         <aside class="[ post__body ] [ inner-wrapper ] [ pad-bottom-900 text-500 ]">

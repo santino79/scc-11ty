@@ -48,6 +48,7 @@ module.exports = function(value, outputPath) {
       });
     }
 
+    /*
     if (articleHeadings.length) {
       // Loop each heading and add a little anchor and an ID to each one
       articleHeadings.forEach(heading => {
@@ -66,6 +67,7 @@ module.exports = function(value, outputPath) {
         heading.appendChild(anchor);
       });
     }
+    */
 
     // Look for videos are wrap them in a container element
     if (articleEmbeds.length) {

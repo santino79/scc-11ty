@@ -1,6 +1,7 @@
 const rssPlugin = require('@11ty/eleventy-plugin-rss');
 const syntaxHighlight = require('@11ty/eleventy-plugin-syntaxhighlight');
 const fs = require('fs');
+const sql = require('sql.js');
 
 // Import filters
 const dateFilter = require('./src/filters/date-filter.js');
@@ -13,6 +14,9 @@ const parseTransform = require('./src/transforms/parse-transform.js');
 
 // Import data files
 const site = require('./src/_data/site.json');
+
+// Components
+//const shortcodes = require('./src/js/components/shortcodes.js');
 
 module.exports = function(config) {
   // Filters
@@ -55,6 +59,9 @@ module.exports = function(config) {
   // Plugins
   config.addPlugin(rssPlugin);
   config.addPlugin(syntaxHighlight);
+
+  // Shortcodes
+  //config.addShortcode("sqlquiz", shortcodes.insertQuestions)
 
   // 404
   config.setBrowserSyncConfig({

@@ -5,6 +5,7 @@ tags: lessons
 featured_image: 
 image_caption: 
 excerpt: 
+lesson_no: 8
 ---
 ### Tidying up our WHERE clause with IN.
 

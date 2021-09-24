@@ -5,6 +5,7 @@ tags: lessons
 featured_image: 
 image_caption: 
 excerpt: 
+lesson_no: 34
 ---
 ### How to change or amend a value in our table.
 

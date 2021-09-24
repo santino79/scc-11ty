@@ -5,6 +5,7 @@ tags: lessons
 featured_image: 
 image_caption: 
 excerpt: 
+lesson_no: 6
 ---
 ### Leveling up our WHERE clause with AND.
 

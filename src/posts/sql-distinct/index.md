@@ -5,6 +5,7 @@ tags: lessons
 featured_image: 
 image_caption: 
 excerpt: 
+lesson_no: 12
 ---
 ### Duplicates in data tables are a fact of life.
 

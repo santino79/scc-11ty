@@ -5,6 +5,7 @@ tags: lessons
 featured_image: 
 image_caption: 
 excerpt: 
+lesson_no: 33
 ---
 ### How do we put new rows of data into our data table?
 

@@ -5,6 +5,7 @@ tags: lessons
 featured_image: 
 image_caption: 
 excerpt: 
+lesson_no: 18
 ---
 The **SUM** function allows you to do a summary calculation on a particular column in your data table. No wildcards here, we **MUST** specify the individual column we want to summarise.
 
