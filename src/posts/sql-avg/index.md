@@ -5,6 +5,7 @@ tags: lessons
 featured_image: 
 image_caption: 
 excerpt: 
+lesson_no: 19
 ---
 ### What is the Average?
 

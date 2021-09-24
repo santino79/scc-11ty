@@ -5,6 +5,7 @@ tags: lessons
 featured_image: 
 image_caption: 
 excerpt: 
+lesson_no: 4
 ---
 ### The WHERE clause allows us to filter the results by a set of criteria.
 

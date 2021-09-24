@@ -1,0 +1,52 @@
+{% if sqllessons.lessons %}
+
+    {% for lesson in sqllessons.lessons %}
+        {% if lesson_no == lesson.lesson_id and lesson.is_live %}
+
+            <div class="ash-form">
+
+                <h2 class="quiz__header">Quiz Time.</h2>
+
+                <h3>The Question.</h3>
+
+                {{ lesson.prompt | safe }}
+
+                <h3>The Data.</h3>
+                <input type="hidden" id="quiz-setup" value="{{ lesson.dbsetup }}" />
+                <input type="hidden" id="quiz-tablenames" value="{{ lesson.table_names }}" />
+                <p id="quiz-data"></p>
+                <p id="out-msg"></p>
+
+                <div id="quiz-form">
+                <h3>The Editor.</h3>
+                <p>
+                <textarea id="sql-input" rows="8" cols="30"></textarea>
+                <br />
+                <a href="#" id="sql-link" onclick="submitSql();">Run SQL</button>
+                </p>
+                </div>
+                
+                <br />
+                <a href="#" id="answer-link" onclick="showAnswer()">Show Answer</button>
+
+
+                <div id="correct-display">
+                    <h3>The Answer.</h3>
+
+                    <h4>Correct SQL: </h4>
+                    <pre class="language-sql">
+                    <code class="language-sql">{{ lesson.answer }}</code>
+                    </pre>
+                <input type="hidden" id="quiz-answer" value="{{ lesson.answer }}" />
+
+                    <h4>Correct Output:</h4>
+                    <p id="quiz-output"></p>
+
+                </div>
+
+            </div>
+        {% endif %}
+
+    {% endfor %}
+
+{% endif %}

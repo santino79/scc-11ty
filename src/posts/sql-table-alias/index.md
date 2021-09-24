@@ -5,6 +5,7 @@ tags: lessons
 featured_image: 
 image_caption: 
 excerpt: 
+lesson_no: 30
 ---
 ### What is a Table Alias and why would we use it?
 

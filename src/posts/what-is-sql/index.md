@@ -5,6 +5,7 @@ tags: lessons
 featured_image: 
 image_caption: 
 excerpt: 
+lesson_no: 1
 ---
 ## So what the hell is SQL?
 
@@ -58,5 +59,3 @@ This will include the main SQL commands such as SELECT, UPDATE, INSERT INTO and 
 Added together, this knowledge will give you a major head-start on your way to becoming a SQL Grand Master.
 
 Buckle up, it&#8217;s going to be a wild ride.
-
-<a href="/sql-select" className="link-button">Try the next lesson</a>

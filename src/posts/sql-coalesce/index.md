@@ -5,6 +5,7 @@ tags: lessons
 featured_image: 
 image_caption: 
 excerpt: 
+lesson_no: 24
 ---
 ### What does COALESCE do?
 

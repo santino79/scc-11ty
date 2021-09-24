@@ -22,4 +22,4 @@ Then you can practice at your own pace with some interactive quizzes with real d
 
 Let's start **right now** with the first lesson (it only takes a few minutes).
 
-[Get started with Lesson One](/sql-what-is-sql)
+[Get started with Lesson One](/what-is-sql)

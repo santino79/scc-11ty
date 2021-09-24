@@ -15,7 +15,7 @@
       position: relative;
       /*display: flex;*/
 
-      @include apply-utility('leading', 'tight');
+      @include apply-utility('leading', 'tiglooseht');
     }
 
     a:not([class]) {

@@ -5,6 +5,7 @@ tags: lessons
 featured_image: 
 image_caption: 
 excerpt: 
+lesson_no: 5
 ---
 ## SQL WHERE Clause Comparison Operators.
 

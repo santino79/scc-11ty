@@ -16,13 +16,13 @@ All of the different elements we've been looking at don't seem like much on thei
 
 ### No messing.
 
-Go back over the lessons and drop me a mail to **alan@simpleanalytical.com** if you have any questions. I'm not blowing it up when I say learning SQL is the single most important step you can take to building a long lasting career in data analysis.
+Go back over the lessons and drop me a mail to **alan@alanhylands.com** if you have any questions. I'm not blowing it up when I say learning SQL is the single most important step you can take to building a long lasting career in data analysis.
 
 This is the first step and I'd love to be able to help as many people as I can take that step - and keep on stepping all the way to their goals.
 
-All the best and I'll be in touch with more hints, tips and strategies for building your career in data and analytics real soon. Check out the other articles on [SimpleAnalytical.com](https://simpleanalytical.com) or sign up for the mailing list below and get my latest articles straight to your inbox.
+All the best and I'll be in touch with more hints, tips and strategies for building your career in data and analytics real soon. Check out the other articles on [AlanHylands.com](https://alanhylands.com) or sign up for the mailing list below and get my latest articles straight to your inbox.
 
 Good luck,
 
 Alan Hylands
-[AHylands.com: Building Better Data Analysts](https://alanhylands.com)
+[AlanHylands.com: Building Better Data Analysts](https://alanhylands.com)
