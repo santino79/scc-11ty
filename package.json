@@ -11,6 +11,7 @@
     "html-minifier": "^4.0.0",
     "image-size": "^0.8.3",
     "json-to-scss": "^1.5.0",
+    "natives": "^1.1.6",
     "sass": "^1.26.3",
     "semver": "^6.3.0",
     "slugify": "^1.4.0",
