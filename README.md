@@ -18,3 +18,17 @@ And many others who blazed the trail.
 ## Lesson content.
 
 All lessons and quiz questions are by Alan Hylands, a data analyst and author of the [AlanHylands.com](https://alanhylands.com) blog
+
+## How to install and run the project
+
+Install
+
+```
+npm install
+```
+
+Run
+
+```
+npm start
+```
