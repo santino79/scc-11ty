@@ -26,3 +26,10 @@ could be re-written as:
  ```
  
 This allows us to use the alias ("p" in our example) instead of typing out the full table name each time.
+
+We can even omit the **AS** keyword, if the table name is immediately followed by its alias:
+
+```sql
+ SELECT p.description, p.category, p.price
+ FROM Products p;
+ ```
