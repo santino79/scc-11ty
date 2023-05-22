@@ -50,7 +50,7 @@ No filtering on a non-existent **WHERE** clause so **SQL** just assumes you want
 
 But no-one would be that stupid you say &#8211; would they? Oh hell yes they would. We all have been.
 
-Under pressure, rushing something out, not paying quite as much attention as we should and BOOM._ **It&#8217;s all gone**_.
+Under pressure, rushing something out, not paying quite as much attention as we should and BOOM. _**It&#8217;s all gone**_.
 
 ## Please be careful.
 
