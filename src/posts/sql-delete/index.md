@@ -61,5 +61,3 @@ Now, there may be times when you do legitimately want to scrub all records from 
 No-one needs the pain of sitting up all night trying to re-create a table from backups and log files and praying you get it close enough that no-ones really notices what you did.
 
 ### This is experience talking. Listen to it.
-
-<a href="/the-end" className="link-button">Try the next lesson</a>
