@@ -48,5 +48,3 @@ By adding the **WHERE** clause we have limited the **UPDATE** to only those empl
 The **WHERE** clause is always a useful one to keep an eye on. There isn&#8217;t a SQL developer in the world who hasn&#8217;t got carried away and updated every row in their database by accident when they should have used the **WHERE** clause to filter their targets.
 
 You should have plenty of experience with **WHERE** by now after all of the previous lessons but it's always worth a refresher if you aren't sure. Better safe than (very) sorry.
-
-<a href="/sql-delete" className="link-button">Try the next lesson</a>

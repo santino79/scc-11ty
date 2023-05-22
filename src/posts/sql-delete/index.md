@@ -50,7 +50,7 @@ No filtering on a non-existent **WHERE** clause so **SQL** just assumes you want
 
 But no-one would be that stupid you say &#8211; would they? Oh hell yes they would. We all have been.
 
-Under pressure, rushing something out, not paying quite as much attention as we should and BOOM._ **It&#8217;s all gone**_.
+Under pressure, rushing something out, not paying quite as much attention as we should and BOOM. _**It&#8217;s all gone**_.
 
 ## Please be careful.
 
@@ -61,5 +61,3 @@ Now, there may be times when you do legitimately want to scrub all records from 
 No-one needs the pain of sitting up all night trying to re-create a table from backups and log files and praying you get it close enough that no-ones really notices what you did.
 
 ### This is experience talking. Listen to it.
-
-<a href="/the-end" className="link-button">Try the next lesson</a>
