@@ -11,7 +11,7 @@ lesson_no: 5
 
 The WHERE clause also lets us use a range of other comparison operators.
 
-We'll look at a list of the different comparison operators we can use and see an example of the Greater Than operator action. You should familiar with most of these from school maths class but it never hurts to have a refresher.
+We'll look at a list of the different comparison operators we can use and see an example of the Greater Than operator action. You should be familiar with most of these from school maths class but it never hurts to have a refresher.
 
 ### Most common comparison operators.
 
