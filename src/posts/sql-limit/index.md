@@ -1,5 +1,5 @@
 ---
-title: "Lesson 15: How to LIMIT the number of results returned."
+title: "How to LIMIT the number of results returned."
 date: 1915-01-01
 tags: lessons
 featured_image: 

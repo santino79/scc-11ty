@@ -1,5 +1,5 @@
 ---
-title: "Lesson 9: Filtering results using the WHERE Clause and the NOT operator."
+title: "Filtering results using the WHERE Clause and the NOT operator."
 date: 1909-01-01
 tags: lessons
 featured_image: 

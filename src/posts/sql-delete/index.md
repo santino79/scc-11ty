@@ -1,5 +1,5 @@
 ---
-title: "Lesson 35: The SQL DELETE Statement"
+title: "The SQL DELETE Statement"
 date: 1935-01-01
 tags: lessons
 featured_image: 

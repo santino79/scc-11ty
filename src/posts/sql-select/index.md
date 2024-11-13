@@ -1,5 +1,5 @@
 ---
-title: "Lesson 2: The SQL SELECT Statement"
+title: "The SQL SELECT Statement"
 date: 1902-01-01
 tags: lessons
 featured_image: 

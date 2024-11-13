@@ -1,5 +1,5 @@
 ---
-title: "Lesson 31: Using a Column Alias."
+title: "Using a Column Alias."
 date: 1931-01-01
 tags: lessons
 featured_image: 

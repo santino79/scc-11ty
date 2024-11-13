@@ -1,5 +1,5 @@
 ---
-title: "Lesson 25: Using Nested Queries "
+title: "Using Nested Queries "
 date: 1925-01-01
 tags: lessons
 featured_image: 

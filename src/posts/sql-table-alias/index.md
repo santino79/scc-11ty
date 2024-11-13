@@ -1,5 +1,5 @@
 ---
-title: "Lesson 30: Using a Table Alias."
+title: "Using a Table Alias."
 date: 1930-01-01
 tags: lessons
 featured_image: 

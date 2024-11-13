@@ -1,5 +1,5 @@
 ---
-title: "Lesson 23: Handling NULL values."
+title: "Handling NULL values."
 date: 1923-01-01
 tags: lessons
 featured_image: 

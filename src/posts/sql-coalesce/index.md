@@ -1,5 +1,5 @@
 ---
-title: "Lesson 24: Using the COALESCE function."
+title: "Using the COALESCE function."
 date: 1924-01-01
 tags: lessons
 featured_image: 

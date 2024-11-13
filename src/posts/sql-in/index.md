@@ -1,5 +1,5 @@
 ---
-title: "Lesson 8: Filtering results using the WHERE Clause and the IN operator."
+title: "Filtering results using the WHERE Clause and the IN operator."
 date: 1908-01-01
 tags: lessons
 featured_image: 

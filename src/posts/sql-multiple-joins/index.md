@@ -1,5 +1,5 @@
 ---
-title: "Lesson 28: Joining tables using Multiple Joins."
+title: "Joining tables using Multiple Joins."
 date: 1928-01-01
 tags: lessons
 featured_image: 

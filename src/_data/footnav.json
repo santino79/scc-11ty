@@ -1,19 +1,19 @@
 {
   "items": [
     {
-      "text": "Twitter",
-      "url": "https://twitter.com/alanhylands",
-      "external": true
+      "text": "About SQL Crash Course",
+      "url": "/about/",
+      "external": false
     },
     {
-      "text": "LinkedIn",
-      "url": "https://linkedin.com/in/alanhylands",
-      "external": true
+      "text": "Testimonials",
+      "url": "/testimonials/",
+      "external": false
     },
     {
-      "text": "Github",
-      "url": "https://github.com/santino79/scc-11ty",
-      "external": true
+      "text": "Contact",
+      "url": "/contact/",
+      "external": false
     }
   ]
 }

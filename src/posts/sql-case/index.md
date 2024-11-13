@@ -1,5 +1,5 @@
 ---
-title: "Lesson 14: Using the CASE statement."
+title: "Using the CASE statement."
 date: 1914-01-01
 tags: lessons
 featured_image: 

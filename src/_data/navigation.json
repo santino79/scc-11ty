@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "text": "About",
-      "url": "/about/",
-      "external": false
-    },
-    {
-      "text": "Lessons",
+      "text": "SQL Lessons",
       "url": "/lessons/",
       "external": false
     }

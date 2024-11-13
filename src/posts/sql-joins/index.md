@@ -1,5 +1,5 @@
 ---
-title: "Lesson 26: Joining tables using INNER JOIN."
+title: "Joining tables using INNER JOIN."
 date: 1926-01-01
 tags: lessons
 featured_image: 

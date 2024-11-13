@@ -1,5 +1,5 @@
 ---
-title: "Lesson 12: Removing duplicates from results with the DISTINCT keyword."
+title: "Removing duplicates from results with the DISTINCT keyword."
 date: 1912-01-01
 tags: lessons
 featured_image: 

@@ -1,5 +1,5 @@
 ---
-title: "Lesson 11: Handling Dates"
+title: "Handling Dates"
 date: 1911-01-01
 tags: lessons
 featured_image: 
