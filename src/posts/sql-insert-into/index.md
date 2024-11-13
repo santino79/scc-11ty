@@ -51,5 +51,3 @@ VALUES ('Jimmy', 'Page', 'Led Zeppelin', 'Gibson', 'Les Paul', 'England');
 ```
 
 And now you have one of the pioneers of heavy rock in your database table.
-
-<a href="/sql-update" className="link-button">Try the next lesson</a>
