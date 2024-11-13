@@ -1,5 +1,5 @@
 ---
-title: "Lesson 5: Filtering results using the WHERE Clause and GREATER THAN."
+title: "Filtering results using the WHERE Clause and GREATER THAN."
 date: 1905-01-01
 tags: lessons
 featured_image: 

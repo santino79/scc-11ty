@@ -1,5 +1,5 @@
 ---
-title: "Lesson 18: Summing all values using the SUM Function."
+title: "Summing all values using the SUM Function."
 date: 1918-01-01
 tags: lessons
 featured_image: 

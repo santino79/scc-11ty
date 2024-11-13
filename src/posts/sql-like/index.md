@@ -1,5 +1,5 @@
 ---
-title: "Lesson 10: Using wildcard comparisons with the LIKE operator."
+title: "Using wildcard comparisons with the LIKE operator."
 date: 1910-01-01
 tags: lessons
 featured_image: 

@@ -1,5 +1,5 @@
 ---
-title: "Lesson 22: Using the HAVING clause to filter aggregate functions."
+title: "Using the HAVING clause to filter aggregate functions."
 date: 1922-01-01
 tags: lessons
 featured_image: 

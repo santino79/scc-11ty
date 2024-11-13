@@ -1,5 +1,5 @@
 ---
-title: "Lesson 21: Aggregate functions using the GROUP BY clause."
+title: "Aggregate functions using the GROUP BY clause."
 date: 1921-01-01
 tags: lessons
 featured_image: 

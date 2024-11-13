@@ -1,5 +1,5 @@
 ---
-title: "Lesson 16: Counting the number of rows returned with COUNT."
+title: "Counting the number of rows returned with COUNT."
 date: 1916-01-01
 tags: lessons
 featured_image: 

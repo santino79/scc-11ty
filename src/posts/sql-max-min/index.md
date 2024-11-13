@@ -1,5 +1,5 @@
 ---
-title: "Lesson 20: Finding the minimum and maximum values using MIN and MAX functions."
+title: "Finding the minimum and maximum values using MIN and MAX functions."
 date: 1920-01-01
 tags: lessons
 featured_image: 

@@ -1,5 +1,5 @@
 ---
-title: "Lesson 6: Filtering results using the WHERE Clause and the AND operator."
+title: "Filtering results using the WHERE Clause and the AND operator."
 date: 1906-01-01
 tags: lessons
 featured_image: 

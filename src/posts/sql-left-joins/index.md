@@ -1,5 +1,5 @@
 ---
-title: "Lesson 27: Joining tables using LEFT JOIN."
+title: "Joining tables using LEFT JOIN."
 date: 1927-01-01
 tags: lessons
 featured_image: 

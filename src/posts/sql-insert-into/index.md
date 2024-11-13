@@ -1,5 +1,5 @@
 ---
-title: "Lesson 33: The INSERT INTO Statement"
+title: "The INSERT INTO Statement"
 date: 1933-01-01
 tags: lessons
 featured_image: 

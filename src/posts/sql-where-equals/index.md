@@ -1,5 +1,5 @@
 ---
-title: "Lesson 4: Filtering results with the WHERE Clause."
+title: "Filtering results with the WHERE Clause."
 date: 1904-01-01
 tags: lessons
 featured_image: 

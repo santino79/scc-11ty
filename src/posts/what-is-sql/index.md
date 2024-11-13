@@ -1,5 +1,5 @@
 ---
-title: "Lesson 1: What is SQL?"
+title: "What is SQL?"
 date: 1901-01-01
 tags: lessons
 featured_image: 

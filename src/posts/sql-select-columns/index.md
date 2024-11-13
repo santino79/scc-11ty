@@ -1,5 +1,5 @@
 ---
-title: "Lesson 3: SELECT statement with specific columns."
+title: "SELECT statement with specific columns."
 date: 1903-01-01
 tags: lessons
 featured_image: 

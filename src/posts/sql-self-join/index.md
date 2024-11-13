@@ -1,5 +1,5 @@
 ---
-title: "Lesson 32: Joining tables using Self Joins."
+title: "Joining tables using Self Joins."
 date: 1932-01-01
 tags: lessons
 featured_image: 

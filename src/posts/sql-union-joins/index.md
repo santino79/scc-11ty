@@ -1,5 +1,5 @@
 ---
-title: "Lesson 29: Joining tables using UNION joins."
+title: "Joining tables using UNION joins."
 date: 1929-01-01
 tags: lessons
 featured_image: 

@@ -1,5 +1,5 @@
 ---
-title: "Lesson 19: Finding the average of numerical values using the AVG function."
+title: "Finding the average of numerical values using the AVG function."
 date: 1919-01-01
 tags: lessons
 featured_image: 

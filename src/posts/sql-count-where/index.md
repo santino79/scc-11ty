@@ -1,5 +1,5 @@
 ---
-title: "Lesson 17: Counting the number of rows returned with COUNT and the WHERE clause."
+title: "Counting the number of rows returned with COUNT and the WHERE clause."
 date: 1917-01-01
 tags: lessons
 featured_image: 

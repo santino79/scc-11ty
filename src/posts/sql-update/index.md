@@ -1,5 +1,5 @@
 ---
-title: "Lesson 34: The SQL UPDATE Statement"
+title: "The SQL UPDATE Statement"
 date: 1934-01-01
 tags: lessons
 featured_image: 

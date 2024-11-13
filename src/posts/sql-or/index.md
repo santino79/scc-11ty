@@ -1,5 +1,5 @@
 ---
-title: "Lesson 7: Filtering results using the WHERE Clause and the OR operator."
+title: "Filtering results using the WHERE Clause and the OR operator."
 date: 1907-01-01
 tags: lessons
 featured_image: 

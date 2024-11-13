@@ -1,5 +1,5 @@
 ---
-title: "Lesson 13: Sorting results using ORDER BY."
+title: "Sorting results using ORDER BY."
 date: 1913-01-01
 tags: lessons
 featured_image: 
