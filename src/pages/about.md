@@ -26,4 +26,4 @@ I currently work as a Staff Data Scientist for tech company [Zapier](https://zap
 
 You can contact me by email: alan AT alanhylands DOT com , on this [contact form](/contact/), or send me a message to connect on [LinkedIn](https://linkedin.com/in/alanhylands).
 
-I also write articles to help folks become better data analysts, and interview actual real-life data professionals, at [Analysts Assemble](https://analystsassemble.com).
+I also write articles to help folks become better data analysts, and interview actual real-life data professionals, over at [AlanHylands.com](https://alanhylands.com).
